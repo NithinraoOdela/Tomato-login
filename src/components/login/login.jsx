@@ -53,7 +53,7 @@ export class Login extends React.Component {
 
                     </div>
                     <div className="footer2">
-                        <button type="button" className="btn"  id="btt" onClick={this.handlerclick} > Login
+                        <button type="button" className="btn"  id="btt" onClick={this.handlerclick} > <a href="https://tomatoeatsleepbinge.netlify.app/" className="btn" id="btt">Login</a> 
 
                         </button>
 
