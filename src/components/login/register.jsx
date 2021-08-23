@@ -29,7 +29,7 @@ export class Register extends React.Component {
         return (
             <form>
                 <div className="base-container" ref={this.props.containerRef}>
-                <h1 > <strong className="imagee">Eat</strong>  <strong className="imagew">Sleep</strong> <strong className="imageq">Binge</strong></h1>
+                <h1 > <strong className="imagee">Eat</strong>  <strong className="imagew">Sleep</strong> <strong className="imageq">Binge</strong>🍔</h1>
                     <div className="header">Register</div>
                     <div className="content">
                         <div className="image">
